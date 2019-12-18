@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/OpenFolder/.vs/OpenFolder/v16
+/OpenFolder/OpenFolder/bin/Debug
+/OpenFolder/OpenFolder/Properties
+/OpenFolder/OpenFolder/obj/Debug
